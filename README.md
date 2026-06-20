@@ -57,12 +57,12 @@ Enthusiastic CSE undergraduate with a foundation in **C, C++, Python, and Java**
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nithieshm36-ship-it&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithieshm36-ship-it&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithieshm36-ship-it&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -74,4 +74,4 @@ Enthusiastic CSE undergraduate with a foundation in **C, C++, Python, and Java**
   <a href="mailto:nithieshm36@gmail.com">Email</a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a> — thanks for stopping by!</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/nithieshm36-ship-it">nithieshm36-ship-it</a> — thanks for stopping by!</i></p>
